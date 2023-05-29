@@ -1,0 +1,8 @@
+pandas
+seaborn
+nltk
+sklearn
+matplotlib
+sklearn
+re
+time
